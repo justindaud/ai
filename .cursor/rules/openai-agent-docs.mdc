@@ -1,0 +1,25 @@
+---
+description: This rule contain OpenAI agent documentation's links that would be really helpful understanding the best-practice
+alwaysApply: false
+
+https://openai.github.io/openai-agents-js/
+https://openai.github.io/openai-agents-js/guides/quickstart/
+https://openai.github.io/openai-agents-js/guides/agents/
+https://openai.github.io/openai-agents-js/guides/running-agents/
+https://openai.github.io/openai-agents-js/guides/results/
+https://openai.github.io/openai-agents-js/guides/tools/
+https://openai.github.io/openai-agents-js/guides/multi-agent/
+https://openai.github.io/openai-agents-js/guides/handoffs/
+https://openai.github.io/openai-agents-js/guides/context/
+https://openai.github.io/openai-agents-js/guides/models/
+https://openai.github.io/openai-agents-js/guides/guardrails/
+https://openai.github.io/openai-agents-js/guides/streaming/
+https://openai.github.io/openai-agents-js/guides/human-in-the-loop/
+https://openai.github.io/openai-agents-js/guides/mcp/
+https://openai.github.io/openai-agents-js/guides/tracing/
+https://openai.github.io/openai-agents-js/guides/config/
+https://openai.github.io/openai-agents-js/guides/troubleshooting/
+https://openai.github.io/openai-agents-js/guides/release/
+
+https://openai.github.io/openai-agents-js/extensions/ai-sdk/
+---
