@@ -228,6 +228,3 @@ export class HumanInLoopOrchestrator {
 // Export a singleton instance for use across the app
 export const humanInLoopOrchestrator = new HumanInLoopOrchestrator();
 
-// Export singleton instance
-export const humanInLoopOrchestrator = new HumanInLoopOrchestrator();
-

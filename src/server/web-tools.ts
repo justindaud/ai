@@ -1,6 +1,5 @@
 import { z } from 'zod';
 import { tool } from '@openai/agents';
-import fetch from 'node-fetch';
 
 // Web Search Tool (Example Implementation)
 export const webSearch = tool({
